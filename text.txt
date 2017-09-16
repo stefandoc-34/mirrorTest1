@@ -4,3 +4,4 @@ Novi fix
 Fix na fix
 
 new addition
+Some new line
