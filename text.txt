@@ -3,9 +3,5 @@ Bla
 Novi fix
 Fix na fix
 
-new addition
-Some new line
+There were to many additions here
 
-another addition
-
-yet another addition
