@@ -8,3 +8,4 @@ Some new line
 
 another addition
 
+yet another addition
